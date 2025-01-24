@@ -1,4 +1,4 @@
-# Resume Manager
+# Resume Angent
 
 This project is a platform for managing resumes efficiently, supporting multiple languages, version control, and customization for specific job descriptions (JDs). It aims to:
 
